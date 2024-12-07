@@ -3,6 +3,7 @@ import Topheader from "./components/Topheader";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Sales from "./components/Sales";
+import Categories from "./components/Categories";
 
 
 
@@ -14,6 +15,7 @@ export default function Home() {
 <Header/>
 <Hero/>
 <Sales/>
+<Categories/>
 </div>
   );
 }
